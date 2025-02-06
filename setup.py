@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Duy Nguyen Ngoc",
     author_email="duynn100198@gmail.com",
-    url="https://github.com/olololoe110399/ssh-deployer",
+    url="https://github.com/olololoe110399/ssh_deployer",
     packages=find_packages(),
     install_requires=[
         "paramiko",
